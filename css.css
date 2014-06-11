@@ -1,4 +1,26 @@
+body {
+	background-color: #dfdfdf;
+}
+
+nav {
+	margin: -10px -10px 0 -10px;
+	width: 102%;
+	height: 44px;
+	background-color: blue;
+	box-shadow: #000 2px;
+}
+
+#homepage {
+	text-align: center;
+}
+
 .item {
 	width: 236px;
+	height: 50px;
+	float: left;
 	background-color: green;
+	margin-top: 14px;
+	margin-left: 7px;
+	margin-right: 7px;
+	border-radius: 3px;
 }
